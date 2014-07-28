@@ -23,9 +23,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 ## 2D
 
-* [Unity](http://unity3d.com) - A neat game engine.
-* [Unity](http://unity3d.com) - A neat game engine.
-* [Unity](http://unity3d.com) - A neat game engine.
+* [2d Toolkit](http://www.unikronsoftware.com/2dtoolkit) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
 
 # Resources
 
