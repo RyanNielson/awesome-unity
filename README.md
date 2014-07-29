@@ -7,6 +7,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 - [Awesome Unity](#awesome-unity)
   - [2D](#2d)
+  - [AI](#ai)
   - [Character Controllers](#character-controllers)
   - [Input](#input)
   - [Tweening](#tweening)
