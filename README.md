@@ -7,10 +7,14 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 - [Awesome Unity](#awesome-unity)
   - [2D](#2d)
+  - [Character Controllers](#character-controllers)
+  - [Input](#input)
+  - [Tweening](#tweening)
   - [UI](#ui)
   - [Visual Scripting](#visual-scripting)
 - [More](#more)
 - [Resources](#resources)
+  - [Tutorials](#tutorials)
 - [Contributing](#contributing)
 
 ## 2D
@@ -18,6 +22,15 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [2d Toolkit](http://www.unikronsoftware.com/2dtoolkit) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
 * [Ferr2D Terrain Tool](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
 * [SmoothMoves](https://www.assetstore.unity3d.com/en/#!/content/2844) - A skeletal animation editor.
+
+## Character Controllers
+
+* [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarily to Unity's CharacterController component.
+
+## Input
+
+* [InControl (Free)](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
+* [TouchKit (Free)](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
 
 ## Tweening
 
@@ -41,8 +54,9 @@ A list of awesome projects made using Unity.
 
 # Resources
 
-Where to discover new Unity assets, tutorials, and more.
+## Tutorials
 
+* [Offcial Video Tutorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
