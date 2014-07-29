@@ -19,6 +19,12 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Ferr2D Terrain Tool](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
 * [SmoothMoves](https://www.assetstore.unity3d.com/en/#!/content/2844) - A skeletal animation editor.
 
+## Tweening
+
+* [GoKit (Free)](https://www.assetstore.unity3d.com/en/#!/content/3663) - An open source, lightweight tween library aimed at making tweening objects dead simple.
+* [HOTween (Free)](https://www.assetstore.unity3d.com/en/#!/content/3311) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). 
+* [iTween (Free)](https://www.assetstore.unity3d.com/en/#!/content/84) - A simple, and easy to use animation system.
+
 ##UI
 
 * [Daikon Forge](https://www.assetstore.unity3d.com/en/#!/content/10438) - A user interface library that provides deep editor integration, data/event binding, and much more.
