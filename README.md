@@ -25,7 +25,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 ## Character Controllers
 
-* [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarily to Unity's CharacterController component.
+* [CharacterController2D (Free)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarily to Unity's CharacterController component.
 
 ## Input
 
