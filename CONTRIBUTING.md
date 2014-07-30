@@ -12,5 +12,6 @@ Please ensure your pull request adheres to the following:
 * Try to ensure your pull requests only have one commit if possible. You can squash your commits into one before submitting.
 * Make your pull request titles as descriptive as possible.
 * Make sure your additions are in alphabetical order. This includes the headers and items themselves.
+* Ensure that assets you submit are of high quality, documented well, and are recently maintained. It also helps if they're popular so I can research them before adding them to the list.
 
 Thanks!
