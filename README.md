@@ -42,6 +42,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [GoKit (Free)](https://www.assetstore.unity3d.com/en/#!/content/3663) - An open source, lightweight tween library aimed at making tweening objects dead simple.
 * [HOTween (Free)](https://www.assetstore.unity3d.com/en/#!/content/3311) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). 
 * [iTween (Free)](https://www.assetstore.unity3d.com/en/#!/content/84) - A simple, and easy to use animation system.
+* [LeanTween (Free)](http://u3d.as/content/dented-pixel/lean-tween/31i) - FOSS, and also the most lightweight tweening library for Unity. Allows you to tween any value you have access to via the .value() method.
 
 ##UI
 
