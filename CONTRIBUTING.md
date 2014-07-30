@@ -11,5 +11,6 @@ Please ensure your pull request adheres to the following:
 * Make sure your text editor is set to remove trailing whitespace.
 * Try to ensure your pull requests only have one commit if possible. You can squash your commits into one before submitting.
 * Make your pull request titles as descriptive as possible.
+* Make sure your additions are in alphabetical order. This includes the headers and items themselves.
 
 Thanks!
