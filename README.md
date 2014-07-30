@@ -10,6 +10,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
   - [AI](#ai)
   - [Character Controllers](#character-controllers)
   - [Input](#input)
+  - [Networking](#networking)
   - [Tweening](#tweening)
   - [UI](#ui)
   - [Visual Scripting](#visual-scripting)
@@ -37,6 +38,11 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [InControl (Free)](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
 * [TouchKit (Free)](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
 
+## Networking
+
+* [Photon Unity Networking (Free)](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
+* [Bolt](https://www.assetstore.unity3d.com/en/#!/content/18358) - Build networked games without having to know the details of networking or write any complex networking code.
+
 ## Tweening
 
 * [GoKit (Free)](https://www.assetstore.unity3d.com/en/#!/content/3663) - An open source, lightweight tween library aimed at making tweening objects dead simple.
@@ -54,10 +60,6 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Playmaker](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
 * [Shader Forge](https://www.assetstore.unity3d.com/en/#!/content/14147) - A node-based shader editor giving you the artistic freedom of shader creation in a visual, with no need to code.
 
-## Networking
-
-* [Photon Unity Networking (Free)](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
-
 # Projects
 
 A list of awesome projects made using Unity.
@@ -66,8 +68,8 @@ A list of awesome projects made using Unity.
 
 ## Tutorials
 
-* [Offcial Video Tutorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
 * [Catlike Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials designed for learning the C# scripting side of Unity.
+* [Official Video Tutorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
 * [Unity Patterns](http://unitypatterns.com/) - Software pattern tutorials and free tools for Unity.
 
 # Contributing
