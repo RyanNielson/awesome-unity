@@ -67,11 +67,8 @@ A list of awesome projects made using Unity.
 ## Tutorials
 
 * [Offcial Video Tutorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
-
 * [Catlike Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials designed for learning the C# scripting side of Unity.
-
 * [Unity Patterns](http://unitypatterns.com/) - Software pattern tutorials and free tools for Unity.
-
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
