@@ -55,6 +55,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Shader Forge](https://www.assetstore.unity3d.com/en/#!/content/14147) - A node-based shader editor giving you the artistic freedom of shader creation in a visual, with no need to code.
 
 ## Networking
+
 * [Photon Unity Networking](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 
 # Projects
@@ -66,6 +67,11 @@ A list of awesome projects made using Unity.
 ## Tutorials
 
 * [Offcial Video Tutorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
+
+* [Catlike Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials designed for learning the C# scripting side of Unity.
+
+* [Unity Patterns](http://unitypatterns.com/) - Software pattern tutorials and free tools for Unity.
+
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
