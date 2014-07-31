@@ -8,6 +8,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 - [Awesome Unity](#awesome-unity)
   - [2D](#2d)
   - [AI](#ai)
+  - [Camera](#camera)
   - [Character Controllers](#character-controllers)
   - [Input](#input)
   - [Networking](#networking)
@@ -28,6 +29,10 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 ## AI
 
 * [Rain (Free)](http://rivaltheory.com/rain) - A toolset that provides integrated AI rigging, a visual behavior tree editor,  pathfinding, automatic nav grid generation, and more. 
+
+## Camera
+
+* [UFPS](https://www.assetstore.unity3d.com/en/#!/content/2943) - Provides camera physics and other effects for use in FPS games.
 
 ## Character Controllers
 
