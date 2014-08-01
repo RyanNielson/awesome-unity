@@ -48,6 +48,10 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Photon Unity Networking (Free)](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 * [Bolt](https://www.assetstore.unity3d.com/en/#!/content/18358) - Build networked games without having to know the details of networking or write any complex networking code.
 
+## Textures
+
+* [18 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/1352) - Configurable textures
+
 ## Tweening
 
 * [GoKit (Free)](https://www.assetstore.unity3d.com/en/#!/content/3663) - An open source, lightweight tween library aimed at making tweening objects dead simple.
