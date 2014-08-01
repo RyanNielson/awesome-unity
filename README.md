@@ -50,7 +50,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 ## Textures
 
-* [18 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/1352) - Configurable textures
+* [18 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/1352) - 18 configurable procedural textures.
 
 ## Tweening
 
