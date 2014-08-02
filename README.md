@@ -32,7 +32,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 ## Camera
 
-* [UFPS](https://www.assetstore.unity3d.com/en/#!/content/2943) - Provides camera physics and other effects for use in FPS games.
+* [UFPS](https://www.assetstore.unity3d.com/en/#!/content/2943) - Provides camera, controllers, and other effects for use in FPS games.
 
 ## Character Controllers
 
