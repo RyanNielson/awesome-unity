@@ -68,7 +68,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 ## Visual Scripting
 
 * [Playmaker](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
-* [Shader Forge](https://www.assetstore.unity3d.com/en/#!/content/14147) - A node-based shader editor giving you the artistic freedom of shader creation in a visual, with no need to code.
+* [Shader Forge](https://www.assetstore.unity3d.com/en/#!/content/14147) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code.
 
 # Projects
 
