@@ -44,6 +44,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 * [InControl (Free)](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
 * [TouchKit (Free)](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
+* [InputMaster (Free)](https://github.com/michaeln-bsg/InputMaster) - Input management for Unity that uses vars instead of strings, allows runtime control editing, native support for Xbox 360 Controllers using XInputDotNET and is open source.
 
 ## Networking
 
