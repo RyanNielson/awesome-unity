@@ -24,6 +24,8 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 * [2d Toolkit](http://www.unikronsoftware.com/2dtoolkit) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
 * [Ferr2D Terrain Tool](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
+* [HexCoord (Free)](https://github.com/tejon/HexCoord) - Hexagon grid coordinate system.
+* [HexKit](http://u3d.as/7wz) - Hexagon grid operations, built on HexCoord.
 * [SmoothMoves](https://www.assetstore.unity3d.com/en/#!/content/2844) - A skeletal animation editor.
 * [Spine](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
 
