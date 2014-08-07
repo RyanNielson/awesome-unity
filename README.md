@@ -22,6 +22,8 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 ## 2D
 
+* [2d Homing Missiles](https://www.assetstore.unity3d.com/en/#!/content/19671) - Customisable homing missiles with smoke and explosions, utilising a PID controller for realistic missile movement.
+* [2D Shooter Bullet and Weapon System](https://www.assetstore.unity3d.com/en/#!/content/19922) - Customisable 2D bullet, pattern and weapon system for top down or side scrolling games.
 * [2d Toolkit](http://www.unikronsoftware.com/2dtoolkit) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
 * [Ferr2D Terrain Tool](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
 * [SmoothMoves](https://www.assetstore.unity3d.com/en/#!/content/2844) - A skeletal animation editor.
@@ -53,6 +55,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 ## Textures
 
 * [18 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/1352) - 18 configurable procedural textures.
+* [Deep Space Skybox Pack](https://www.assetstore.unity3d.com/en/#!/content/11056) - A collection of three unique, seamless space themed skyboxes.
 
 ## Tweening
 
