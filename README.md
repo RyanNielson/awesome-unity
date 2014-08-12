@@ -10,6 +10,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
   - [AI](#ai)
   - [Camera](#camera)
   - [Character Controllers](#character-controllers)
+  - [Frameworks](#frameworks)
   - [Input](#input)
   - [Networking](#networking)
   - [Tweening](#tweening)
@@ -39,6 +40,10 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 ## Character Controllers
 
 * [CharacterController2D (Free)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarily to Unity's CharacterController component.
+
+## Frameworks
+
+* [uFrame](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
 
 ## Input
 
