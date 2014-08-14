@@ -68,7 +68,6 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 ##UI
 
-* [Daikon Forge](https://www.assetstore.unity3d.com/en/#!/content/10438) - A user interface library that provides deep editor integration, data/event binding, and much more.
 * [NGUI](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework.
 
 ## Visual Scripting
