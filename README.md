@@ -13,6 +13,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
   - [Frameworks](#frameworks)
   - [Input](#input)
   - [Networking](#networking)
+  - [Shaders](#shaders)
   - [Tweening](#tweening)
   - [UI](#ui)
   - [Visual Scripting](#visual-scripting)
@@ -55,6 +56,9 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Bolt](https://www.assetstore.unity3d.com/en/#!/content/18358) - Build networked games without having to know the details of networking or write any complex networking code.
 * [Photon Unity Networking (Free)](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 
+## Shaders
+* [Shader Forge](https://www.assetstore.unity3d.com/en/#!/content/14147) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code.
+
 ## Textures
 
 * [18 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/1352) - 18 configurable procedural textures.
@@ -73,7 +77,6 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 ## Visual Scripting
 
 * [Playmaker](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
-* [Shader Forge](https://www.assetstore.unity3d.com/en/#!/content/14147) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code.
 
 # Projects
 
