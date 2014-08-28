@@ -32,7 +32,8 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 ## AI
 
 * [A* Pathfinding Project (Free and paid)](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
-* [Rain (Free)](http://rivaltheory.com/rain) - A toolset that provides integrated AI rigging, a visual behavior tree editor,  pathfinding, automatic nav grid generation, and more. 
+* [Apex Path](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
+* [Rain (Free)](http://rivaltheory.com/rain) - A toolset that provides integrated AI rigging, a visual behavior tree editor,  pathfinding, automatic nav grid generation, and more.
 
 ## Camera
 
