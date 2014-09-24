@@ -16,6 +16,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
   - [Shaders](#shaders)
   - [Tweening](#tweening)
   - [UI](#ui)
+  - [Utilities](#utilities)
   - [Visual Scripting](#visual-scripting)
 - [More](#more)
 - [Resources](#resources)
@@ -74,6 +75,10 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 ##UI
 
 * [NGUI](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework.
+
+##Utilities
+
+* [CSharpatron](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
 
 ## Visual Scripting
 
