@@ -13,6 +13,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
   - [Frameworks](#frameworks)
   - [Input](#input)
   - [Networking](#networking)
+  - [Scripting](#scripting)
   - [Shaders](#shaders)
   - [Tweening](#tweening)
   - [UI](#ui)
@@ -57,6 +58,9 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 * [Bolt](https://www.assetstore.unity3d.com/en/#!/content/18358) - Build networked games without having to know the details of networking or write any complex networking code.
 * [Photon Unity Networking (Free)](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
+
+## Scripting
+* [Mad Level Manager](https://www.assetstore.unity3d.com/en/#!/content/10070) - Provides a level manager, level selector, and progress save/load tools to make it easy to transition between levels and make level selection screens.
 
 ## Shaders
 * [Shader Forge](https://www.assetstore.unity3d.com/en/#!/content/14147) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code.
