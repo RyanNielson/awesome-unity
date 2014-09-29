@@ -21,8 +21,8 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
   - [Visual Scripting](#visual-scripting)
 - [More](#more)
 - [Resources](#resources)
-  - [Tutorials](#tutorials)
   - [Tips and Tricks](#tips-and-tricks)
+  - [Tutorials](#tutorials)
 - [Contributing](#contributing)
 
 ## 2D
@@ -95,15 +95,15 @@ A list of awesome projects made using Unity.
 
 # Resources
 
+## Tips and Tricks
+
+* [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
+
 ## Tutorials
 
 * [Catlike Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials designed for learning the C# scripting side of Unity.
 * [Official Video Tutorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
 * [Unity Patterns](http://unitypatterns.com/) - Software pattern tutorials and free tools for Unity.
-
-## Tips and Tricks
-
-* [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
