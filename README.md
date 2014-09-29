@@ -22,7 +22,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 - [More](#more)
 - [Resources](#resources)
   - [Tutorials](#tutorials)
-  - [Tips and Tricks](#tipsandtricks)
+  - [Tips and Tricks](#tips-and-tricks)
 - [Contributing](#contributing)
 
 ## 2D
