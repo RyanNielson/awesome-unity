@@ -27,7 +27,8 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 ## 2D
 
-* [2d Toolkit](http://www.unikronsoftware.com/2dtoolkit) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
+* [2D Rope System](https://www.assetstore.unity3d.com/en/#!/content/17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
+* [2D Toolkit](http://www.unikronsoftware.com/2dtoolkit) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
 * [Ferr2D Terrain Tool](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
 * [SmoothMoves](https://www.assetstore.unity3d.com/en/#!/content/2844) - A skeletal animation editor.
 * [Spine](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
