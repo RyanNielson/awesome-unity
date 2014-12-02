@@ -62,6 +62,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Photon Unity Networking (Free)](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 
 ## Scripting
+* [Easy Save 2](https://www.assetstore.unity3d.com/en/#!/content/768) - A fast and simple way to save and load data on all major platforms supported by Unity.
 * [Mad Level Manager](https://www.assetstore.unity3d.com/en/#!/content/10070) - Provides a level manager, level selector, and progress save/load tools to make it easy to transition between levels and make level selection screens.
 
 ## Shaders
