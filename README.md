@@ -12,6 +12,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
   - [Character Controllers](#character-controllers)
   - [Frameworks](#frameworks)
   - [Input](#input)
+  - [Modeling](#modeling)
   - [Networking](#networking)
   - [Scripting](#scripting)
   - [Shaders](#shaders)
@@ -55,6 +56,9 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 * [InControl (Free)](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
 * [TouchKit (Free)](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
+
+## Modeling
+* [Prototype (Free)](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
 
 ## Networking
 
