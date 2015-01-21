@@ -13,6 +13,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
   - [Frameworks](#frameworks)
   - [Input](#input)
   - [Modeling](#modeling)
+  - [Monetization](#monetization)
   - [Networking](#networking)
   - [Scripting](#scripting)
   - [Shaders](#shaders)
@@ -59,6 +60,9 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 ## Modeling
 * [Prototype (Free)](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
+
+## Monetization
+* [Unity Ads (Free)](https://www.assetstore.unity3d.com/en/#!/content/21027) - Unity Ads is a video ad network with quick and seamless integration using regular and opt-in ads.
 
 ## Networking
 
