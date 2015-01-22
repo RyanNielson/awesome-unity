@@ -21,7 +21,6 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
   - [UI](#ui)
   - [Utilities](#utilities)
   - [Visual Scripting](#visual-scripting)
-- [More](#more)
 - [Resources](#resources)
   - [Tips and Tricks](#tips-and-tricks)
   - [Tutorials](#tutorials)
