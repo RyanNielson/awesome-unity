@@ -117,6 +117,7 @@ A list of awesome projects made using Unity.
 
 ## Tutorials
 
+* [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - An awesome collection of game programming contents.
 * [Catlike Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials designed for learning the C# scripting side of Unity.
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) - Lots of great game development patterns useful when making games with or without Unity.
 * [Modern GUI Development in Unity 4.6](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c) - A video tutorial providing an in-depth explanation of Unity's new UI system. 
