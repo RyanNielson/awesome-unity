@@ -1,9 +1,11 @@
 Awesome Unity
 =============
 
-A curated list of awesome Unity assets, projects, and resources.
+A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
-Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), and [awesome-python](https://github.com/vinta/awesome-python).
+Suggestions and contributions are always welcome! Take a look at the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information.
+
+Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/graphs/contributors), this wouldn't be possible without you!
 
 - [Awesome Unity](#awesome-unity)
   - [2D](#2d)
@@ -26,6 +28,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
   - [Tips and Tricks](#tips-and-tricks)
   - [Tutorials](#tutorials)
 - [Contributing](#contributing)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## 2D
 
@@ -128,3 +131,5 @@ A list of awesome projects made using Unity.
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
 
+# Other Awesome Lists
+Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
