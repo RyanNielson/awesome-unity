@@ -118,6 +118,7 @@ A list of awesome projects made using Unity.
 ## Tips and Tricks
 
 * [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
+* [Unity Tips](http://unity3d.com/learn-topic/tips) - Short videos showing some handy tips when using Unity.
 
 ## Tutorials
 
