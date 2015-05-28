@@ -59,6 +59,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Input
 
 * [InControl (Free)](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
+* [InputBinder (Free)](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
 * [TouchKit (Free)](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
 
 ## Modeling
