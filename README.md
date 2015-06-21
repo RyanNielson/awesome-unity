@@ -101,7 +101,6 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Utilities
 
 * [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
-
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
 * [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
@@ -123,8 +122,8 @@ A list of awesome projects made using Unity.
 
 ## Tutorials
 
+* [A Gentle Introduction to Shaders in Unity3D](http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d) - This series of posts will  introduce you to shader coding, and is oriented to developers with little to no knowledge about shaders.
 * [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - An great collection of general purpose game programming content.
-* [A gentle introduction to shaders in Unity3D](http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/) - Shader tutorials in Unity3D
 * [Catlike Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials designed for learning the C# scripting side of Unity.
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) - Lots of great game development patterns useful when making games with or without Unity.
 * [Modern GUI Development in Unity 4.6](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c) - A video tutorial providing an in-depth explanation of Unity's new UI system. 
