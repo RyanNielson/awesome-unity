@@ -129,6 +129,7 @@ A list of awesome projects made using Unity.
 * [Modern GUI Development in Unity 4.6](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c) - A video tutorial providing an in-depth explanation of Unity's new UI system. 
 * [Official Video Tutorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
 * [Unity Patterns](http://unitypatterns.com/) - Software pattern tutorials and free tools for Unity.
+* [Wheel Collider for Unity 5.1](https://www.youtube.com/watch?v=jU3ajFY35NY) - Unity3D Wheel Collider Tutorial (Resolve your problem during porting Unity 4 to Unity 5).
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
