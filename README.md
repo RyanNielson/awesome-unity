@@ -1,5 +1,6 @@
-Awesome Unity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Unity
 =============
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
@@ -7,7 +8,7 @@ Suggestions and contributions are always welcome! Take a look at the [contributi
 
 Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/graphs/contributors), this wouldn't be possible without you!
 
-- [Awesome Unity](#awesome-unity-)
+- [Awesome Unity](#awesome-unity)
   - [2D](#2d)
   - [AI](#ai)
   - [Camera](#camera)
