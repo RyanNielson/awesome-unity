@@ -71,7 +71,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Networking
 
-* [Bolt (Paid)](https://www.assetstore.unity3d.com/en/#!/content/18358) - Build networked games without having to know the details of networking or write any complex networking code.
+* [Photon Bolt (Paid)](https://www.assetstore.unity3d.com/en/#!/content/41330) - Build networked games without having to know the details of networking or write any complex networking code.
 * [Photon Unity Networking](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 
 ## Scripting
