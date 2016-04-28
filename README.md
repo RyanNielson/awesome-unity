@@ -5,7 +5,7 @@ Awesome Unity
 
 A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 
-Suggestions and contributions are always welcome! Take a look at the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information.
+Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 
 Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/graphs/contributors), this wouldn't be possible without you!
 
