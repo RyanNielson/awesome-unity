@@ -12,6 +12,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 - [Awesome Unity](#awesome-unity)
   - [2D](#2d)
   - [AI](#ai)
+  - [Augmented & Virtual Reality](#augmented--virtual-reality)
   - [Camera](#camera)
   - [Character Controllers](#character-controllers)
   - [Frameworks](#frameworks)
@@ -44,6 +45,11 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
 * [Apex Path (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
 * [Rain](http://rivaltheory.com/rain) - A toolset that provides integrated AI rigging, a visual behavior tree editor,  pathfinding, automatic nav grid generation, and more.
+
+
+## Augmented & Virtual Reality
+* [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augumented Reality SDK dedicated for Unity
+* [Google VR SDK](https://developers.google.com/vr/unity) - Google Cardboard SDK dedicated for Unity (virtual reality)
 
 ## Camera
 
