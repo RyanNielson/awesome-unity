@@ -51,6 +51,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Augmented & Virtual Reality
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augumented Reality SDK that includes libraries, utilities, and examples.
 * [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
+* [Google Project Tango](https://developers.google.com/tango/apis/unity/) - Scripts and prefabs to help with the development of Google  Project Tango for Android.
 
 ## Camera
 
