@@ -63,6 +63,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Frameworks
 
 * [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
+* [KSFramework](https://github.com/mr-kelly/KSFramework) - A framework with SLua, focus on asset bundle and hot reload.
 
 ## Input
 
