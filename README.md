@@ -95,7 +95,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Textures
 
-* [18 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/1352) - 18 configurable procedural textures.
+* [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
 
 ## Tweening
 
