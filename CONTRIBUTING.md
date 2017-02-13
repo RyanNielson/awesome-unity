@@ -13,6 +13,6 @@ Please ensure your pull request adheres to the following:
 * Make your pull request titles and descriptions as detailed as possible. Explain why an asset or resources deserves to be added to the list.
 * Make sure your additions are in alphabetical order. This includes the headers and items themselves.
 * Ensure that assets you submit are of high quality, documented well, and are recently maintained. It also helps if they're popular so I can research them before adding them to the list.
-* This is not meant to be used as a list to advertise your own assets.
+* This is not meant to be used as a list to advertise your own assets. Free or open-source assets will should be prioritized over paid assets if they are of similar quality and feature sets.
 
 Thanks!
