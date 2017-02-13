@@ -3,7 +3,7 @@ Awesome Unity
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
+A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
 
 Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 
@@ -63,8 +63,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Frameworks
 
-* [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
 * [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
+* [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
 
 ## Input
 
