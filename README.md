@@ -110,6 +110,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## UI
 
 * [NGUI (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework.
+* [TextMesh Pro (Free)](https://www.assetstore.unity3d.com/en/#!/content/84126) - A alternative to render text in uGUI by using the distance field technique, which allows crisp fonts at any scale. (Bought by Unity)
 
 ## Utilities
 
