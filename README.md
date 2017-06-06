@@ -67,6 +67,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Fungus](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 * [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 * [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
+* [KSFramework](https://github.com/mr-kelly/KSFramework) - A framework with SLua, focus on asset bundle and hot reload.
 
 ## Input
 
@@ -90,6 +91,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Easy Save 2 (Paid)](https://www.assetstore.unity3d.com/en/#!/content/768) - A fast and simple way to save and load data on all major platforms supported by Unity.
 * [Mad Level Manager (Paid)](https://www.assetstore.unity3d.com/en/#!/content/10070) - Provides a level manager, level selector, and progress save/load tools to make it easy to transition between levels and make level selection screens.
 * [UniStorm (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2714) - A customizable dynamic day and night weather system that creates realistic storms and weather.
+* [SLua](https://github.com/pangweiwei/slua) - Bring Lua script engine to Unity developemnt with excellent performance.
 
 ## Services
 * [Unity Analytics](https://www.assetstore.unity3d.com/en/#!/content/28120) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
