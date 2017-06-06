@@ -53,6 +53,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augumented Reality SDK that includes libraries, utilities, and examples.
 * [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
 * [SteamVR Unity Toolkit](https://www.assetstore.unity3d.com/en/#!/content/64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
+* [Vuforia SDK](https://developer.vuforia.com/downloads/sdk) - Augmented Reality Software Development Kit (SDK) for mobile devices that uses Computer Vision technology to recognize and track planar images (Image Targets) and simple 3D objects, such as boxes, in real-time.
 
 ## Camera
 
