@@ -132,6 +132,10 @@ A list of awesome projects made using Unity.
 
 # Resources
 
+## Libraries
+
+[Unity Library - Useful Utitlities for Unity](https://github.com/UnityCommunity/UnityLibrary/)
+
 ## Tips and Tricks
 
 * [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
