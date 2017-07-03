@@ -40,6 +40,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 * [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
 * [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
+* [Free Platform Game Assets + GUI](https://www.assetstore.unity3d.com/en/#!/content/85838) - Complete Free pack for an Awesome game.
 
 ## AI
 
@@ -91,6 +92,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Easy Save 2 (Paid)](https://www.assetstore.unity3d.com/en/#!/content/768) - A fast and simple way to save and load data on all major platforms supported by Unity.
 * [Mad Level Manager (Paid)](https://www.assetstore.unity3d.com/en/#!/content/10070) - Provides a level manager, level selector, and progress save/load tools to make it easy to transition between levels and make level selection screens.
 * [UniStorm (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2714) - A customizable dynamic day and night weather system that creates realistic storms and weather.
+* [Save Game Free](https://www.assetstore.unity3d.com/#!/content/81519) - A free way to save your game data.
+* [Save Game Pro](https://www.assetstore.unity3d.com/en/#!/content/89198) - A professional Save Game solution.
 
 ## Services
 * [Unity Analytics](https://www.assetstore.unity3d.com/en/#!/content/28120) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
@@ -101,6 +104,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Textures
 
 * [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
+* [Free Platform Game Assets + GUI](https://www.assetstore.unity3d.com/en/#!/content/85838) - Complete Free pack for an Awesome game.
 
 ## Tweening
 
@@ -113,6 +117,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [NGUI (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework.
 * [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/84126) - A alternative to render text in uGUI by using the distance field technique, which allows crisp fonts at any scale. This was recently purchased by Unity and will be integrated into the engine in the future.
+* [Free Platform Game Assets + GUI](https://www.assetstore.unity3d.com/en/#!/content/85838) - Complete Free pack for an Awesome game.
 
 ## Utilities
 
