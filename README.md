@@ -103,6 +103,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
 
+* [Free Platform Game Assets](https://www.assetstore.unity3d.com/en/#!/content/85838) - Complete Free Platform Game Assets.
+
 ## Tweening
 
 * [DOTween](https://www.assetstore.unity3d.com/en/#!/content/27676) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). This is the follow-up to HOTween.
