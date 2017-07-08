@@ -150,6 +150,7 @@ A list of awesome projects made using Unity.
 * [Modern GUI Development in Unity 4.6](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c) - A video tutorial providing an in-depth explanation of Unity's new UI system. 
 * [Official Video Tutorials](http://unity3d.com/learn/tutorials/modules) - The official tutorials for scripting, animation, audio, and almost anything Unity related.
 * [Ray Wenderlich's Tutorials](http://www.raywenderlich.com/category/unity) - Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
+* [Unity in Action (book)](https://www.manning.com/books/unity-in-action-second-edition) - This bestselling and highly recommended book (check both [Amazon](https://www.amazon.com/Unity-Action-Multiplatform-Game-Development/dp/161729232X/) and [Goodreads](https://www.goodreads.com/book/show/23816485-unity-in-action)) teaches you to write and deploy games with the Unity game development platform. 
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
 
