@@ -91,8 +91,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Scripting
 * [Easy Save 2 (Paid)](https://www.assetstore.unity3d.com/en/#!/content/768) - A fast and simple way to save and load data on all major platforms supported by Unity.
 * [Mad Level Manager (Paid)](https://www.assetstore.unity3d.com/en/#!/content/10070) - Provides a level manager, level selector, and progress save/load tools to make it easy to transition between levels and make level selection screens.
+* [Save Game Free](https://www.assetstore.unity3d.com/#!/content/81519) - A free Save Game solution, you can add your own serializers.
 * [UniStorm (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2714) - A customizable dynamic day and night weather system that creates realistic storms and weather.
-* [Save Game Free](https://www.assetstore.unity3d.com/#!/content/81519) - A free Save Game solution.
 
 ## Services
 * [Unity Analytics](https://www.assetstore.unity3d.com/en/#!/content/28120) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
