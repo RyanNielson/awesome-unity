@@ -27,6 +27,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
   - [UI](#ui)
   - [Utilities](#utilities)
   - [Visual Scripting](#visual-scripting)
+- [Projects](#projects)
+  - [Games](#games)
 - [Resources](#resources)
   - [Tips and Tricks](#tips-and-tricks)
   - [Tutorials](#tutorials)
@@ -133,7 +135,9 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 # Projects
 
-A list of awesome projects made using Unity.
+## Games
+
+* [Nodulus (Free)](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
 
 # Resources
 
