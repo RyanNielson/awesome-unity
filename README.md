@@ -137,7 +137,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Games
 
-* [Nodulus (Free)](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
+* [Nodulus](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
 
 # Resources
 
