@@ -121,6 +121,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Utilities
 
+* [ChromeAppBuilder](https://github.com/iBicha/ChromeAppBuilder) - An editor extension for Unity3D to export games as google chrome apps.
 * [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 * [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
 * [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
