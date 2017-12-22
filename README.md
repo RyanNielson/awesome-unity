@@ -56,8 +56,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * :free: [A* Pathfinding Project](http://arongranberg.com/astar/) - Lightning fast pathfinding with heavily optimized algorithms and a large feature set.
 * :moneybag: [Apex Path](https://www.assetstore.unity3d.com/en/#!/content/17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
-* :free: [Crystal AI](https://theldoctor.github.io/CrystalAI/) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
-* :free: [Rain](http://rivaltheory.com/rain) - A toolset that provides integrated AI rigging, a visual behavior tree editor,  pathfinding, automatic nav grid generation, and more.
+* :money_with_wings: [Crystal AI](https://igiagkiozis.github.io/CrystalAI/) - Crystal AI fast, scalable and extensible general purpose utility AI written in C# for .NET 3.5 and above, fully compatible with Unity.
+* :free: [Rain](https://www.assetstore.unity3d.com/en/#!/content/23569) - A toolset that provides integrated AI rigging, a visual behavior tree editor,  pathfinding, automatic nav grid generation, and more.
 
 
 ### Augmented & Virtual Reality
