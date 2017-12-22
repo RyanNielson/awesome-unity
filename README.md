@@ -99,6 +99,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ### Networking
 
+* :free: [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - A free and open source multiplayer networking system.
+* :free: [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lightweight UDP library for .NET, Mono, .NET Core, .NET Standard, and UWP.
 * :free: [Nakama](https://www.assetstore.unity3d.com/en/#!/content/81338) - Build social and realtime games with an open-source [distributed server](https://github.com/heroiclabs/nakama).
 * :moneybag: [Photon Bolt](https://www.assetstore.unity3d.com/en/#!/content/41330) - Build networked games without having to know the details of networking or write any complex networking code.
 * :money_with_wings: [Photon Unity Networking](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
