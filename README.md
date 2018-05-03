@@ -110,7 +110,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Tweening
 
 * [DOTween](https://www.assetstore.unity3d.com/en/#!/content/27676) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). This is the follow-up to HOTween.
-* [GoKit](https://www.assetstore.unity3d.com/en/#!/content/3663) - An open source, lightweight tween library aimed at making tweening objects dead simple.
+* [GoKit](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple.
 * [iTween](https://www.assetstore.unity3d.com/en/#!/content/84) - A simple, and easy to use animation system.
 * [LeanTween](https://www.assetstore.unity3d.com/en/#!/content/3595) - FOSS, and also the most lightweight tweening library for Unity. Allows you to tween any value you have access to via the .value() method.
 
