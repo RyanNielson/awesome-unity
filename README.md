@@ -161,5 +161,9 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
 
+## Youtube channels for learning
+
+* [Brackeys](https://www.youtube.com/user/Brackeys) - Great tutorials on how to make video games using Unity. some game design and programming tips included as well.
+
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
