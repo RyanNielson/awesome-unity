@@ -71,6 +71,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Fungus](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 * [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 * [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
+* [QFramework](https://github.com/liangxiegame/QFramework) -  Your first K.I.S.S Game Framework.Its make you create game fast and stable.
 
 ## Input
 
