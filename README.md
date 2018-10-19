@@ -129,6 +129,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
 * [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
 * [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+* [Zero Formatter](https://github.com/neuecc/ZeroFormatter) - Fastest C# serializer and deserializer for Unity.
 
 ## Visual Scripting
 
