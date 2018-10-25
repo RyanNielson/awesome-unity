@@ -133,6 +133,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Visual Scripting
 
 * [Playmaker (Paid)](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
+* [NodeCanvas (Paid)](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914) - Visual Behaviour Authoring framework for Unity, empowering to create advanced AI Behaviours and Logic, including three separate, fully featured, yet seamlessly interchangeable modules to choose and easily add using Behaviour Trees, State Machines, and Dialogue Trees.
 
 # Projects
 
