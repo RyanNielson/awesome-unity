@@ -118,6 +118,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [NGUI (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework.
 * [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/84126) - A alternative to render text in uGUI by using the distance field technique, which allows crisp fonts at any scale. This was recently purchased by Unity and will be integrated into the engine in the future.
+* [DynamicScroll](https://github.com/Mukarillo/UnityDynamicScrollRect) - An optimized approach to lists with dozens of elements.
 
 ## Utilities
 
@@ -129,6 +130,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
 * [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
 * [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+* [UnityPooling](https://github.com/Mukarillo/UnityPooling) - Pooling system with generic types inside Unity.
 
 ## Visual Scripting
 
