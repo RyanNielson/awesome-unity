@@ -22,7 +22,6 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
   - [Networking](#networking)
   - [Scripting](#scripting)
   - [Services](#services)
-  - [Shaders](#shaders)
   - [Tweening](#tweening)
   - [UI](#ui)
   - [Utilities](#utilities)
@@ -99,9 +98,6 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Services
 * [Unity Analytics](https://www.assetstore.unity3d.com/en/#!/content/28120) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
-
-## Shaders
-* [Shader Forge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14147) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code.
 
 ## Tweening
 
