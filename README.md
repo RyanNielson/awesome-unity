@@ -103,10 +103,6 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Shaders
 * [Shader Forge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14147) - A node-based shader editor giving you the artistic freedom of shader creation, with no need to code.
 
-## Textures
-
-* [8 Free Substances (Free)](https://www.assetstore.unity3d.com/en/#!/content/7940) - 8 configurable procedural textures.
-
 ## Tweening
 
 * [DOTween](https://www.assetstore.unity3d.com/en/#!/content/27676) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). This is the follow-up to HOTween.
