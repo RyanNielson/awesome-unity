@@ -78,8 +78,11 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
 * [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
 
+## Mobile
+* [UnityNativeShare](https://github.com/yasirkula/UnityNativeShare) - A Unity plugin to natively share files (images, videos, documents, etc.) and/or plain text on Android & iOS.
+
 ## Modeling
-* [SabreCSG](http://sabrecsg.com/) - A set of [CSG](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity. 
+* [SabreCSG](http://sabrecsg.com/) - A set of [CSG](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity.
 
 ## Monetization
 * [Unity Ads](https://www.assetstore.unity3d.com/en/#!/content/21027) - Unity Ads is a video ad network with quick and seamless integration using regular and opt-in ads.
