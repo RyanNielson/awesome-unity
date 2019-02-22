@@ -61,6 +61,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Camera
 
 * [UFPS (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2943) - Provides camera, controllers, and other effects for use in FPS games.
+* [Dynamic Multi Target Camera for Unity](https://github.com/lopespm/unity-camera-multi-target) - Concise Unity library which dynamically keeps a set of objects (e.g. players and important objects) in view.
 
 ## Character Controllers
 
