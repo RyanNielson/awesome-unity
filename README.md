@@ -15,6 +15,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
   - [Augmented & Virtual Reality](#augmented--virtual-reality)
   - [Camera](#camera)
   - [Character Controllers](#character-controllers)
+  - [Dialogues systems](#dialogs-systems)
   - [Frameworks](#frameworks)
   - [Input](#input)
   - [Modeling](#modeling)
@@ -65,6 +66,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Character Controllers
 
 * [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
+
+## Dialogues Systems
+
+* [YarnSpinner](https://github.com/thesecretlab/YarnSpinner) - A library to easely implement a dialogue tree in a game. Provided with a graphical node editor.
 
 ## Frameworks
 
