@@ -141,6 +141,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Tips and Tricks
 
 * [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
+* [Unity Labs' Super Science](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
 * [Unity Tips](https://unity3d.com/learn/tutorials/topics/tips) - Short videos showing some handy tips when using Unity.
 
 ## Tutorials
