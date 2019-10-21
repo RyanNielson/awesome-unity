@@ -2,6 +2,7 @@ Awesome Unity
 =============
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Subscribe to new links](https://app.releasly.co/assets/badges/badge-awesome-blue-classic.svg)](https://app.releasly.co/sites/RyanNielson/awesome-unity?utm_source=github_badge&utm_campaign=awesome-unity)
 
 A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
 
