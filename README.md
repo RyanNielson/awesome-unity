@@ -149,6 +149,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [A Gentle Introduction to Shaders in Unity3D](http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d) - This series of posts will  introduce you to shader coding, and is oriented to developers with little to no knowledge about shaders.
 * [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - An great collection of general purpose game programming content.
 * [Catlike Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials designed for learning the C# scripting side of Unity.
+* [Coffee Break Codes](http://coffeebreakcodes.com/sample-projects-unity/) - Tutorials and code samples with C# for Unity game development.
 * [Fixing Gaps Between Sprites](http://nielson.io/2015/10/fixing-gaps-between-sprites-better-2d-in-unity-part-2) - A short tutorial about removing the small gaps that sometimes appear between adjacent sprites.
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) - Lots of great game development patterns useful when making games with or without Unity.
 * [Modern GUI Development in Unity 4.6](https://www.youtube.com/playlist?list=PLt_Y3Hw1v3QTEbh8fQV1DUOUIh9nF0k6c) - A video tutorial providing an in-depth explanation of Unity's new UI system. 
