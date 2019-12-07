@@ -128,7 +128,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## VFX
 
-* [Post-processing Stack v2] (https://github.com/Unity-Technologies/PostProcessing) -  Apply full-screen filters and effects to a camera’s image buffer before it is displayed to screen.
+* [Post-processing Stack v2](https://github.com/Unity-Technologies/PostProcessing) -  Apply full-screen filters and effects to a camera’s image buffer before it is displayed to screen.
 
 ## Visual Scripting
 
