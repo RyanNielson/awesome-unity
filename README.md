@@ -126,6 +126,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
 
+## VFX
+
+* [Post-processing Stack v2] (https://github.com/Unity-Technologies/PostProcessing) -  Apply full-screen filters and effects to a camera’s image buffer before it is displayed to screen.
+
 ## Visual Scripting
 
 * [Playmaker (Paid)](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
