@@ -125,6 +125,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Video
 
 * [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
+* [VLC for Unity](https://assetstore.unity.com/packages/tools/video/vlc-for-unity-windows-133979) - Performance and feature set of VLC right inside your games.
 
 ## Visual Scripting
 
