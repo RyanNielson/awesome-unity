@@ -99,6 +99,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Services
 * [Unity Analytics](https://www.assetstore.unity3d.com/en/#!/content/28120) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
+* [Devtodev] (https://github.com/devtodev-analytics/unity-sdk) - A full-cycle analytics solution for game developers.
 
 ## Tweening
 
