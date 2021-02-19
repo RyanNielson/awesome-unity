@@ -99,6 +99,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Services
 * [Unity Analytics](https://www.assetstore.unity3d.com/en/#!/content/28120) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
+* [SimpleLocalize](https://simplelocalize.io) - Helps in managing translation keys and translation messages.
 
 ## Tweening
 
