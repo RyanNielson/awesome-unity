@@ -36,13 +36,12 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## 2D
 
-* [2D Rope System (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
-* [2D Toolkit (Paid)](https://www.assetstore.unity3d.com/en/#!/content/908) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
-* [Ferr2D Terrain Tool (Paid)](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
+* [2D Rope System (Paid)](https://assetstore.unity.com/packages/tools/sprite-management/2d-rope-system-17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
+* [Ferr2D Terrain Tool (Paid)](https://assetstore.unity.com/packages/tools/level-design/ferr2d-terrain-tool-11653) - Quickly create handcrafted 2D landscapes and levels.
 * [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 * [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
 * [Tiled2Unity](http://www.seanba.com/tiled2unity) - Takes your [Tiled](http://www.mapeditor.org) files and creates Unity prefabs from them that are easily placed into your Unity scene. Complex collision is supported through Unity’s PolygonCollider2D class.
-* [Unity Anima2D](https://www.assetstore.unity3d.com/en/#!/content/79840) - Advanced skeletal animation editor with support for both per-object and skinned mesh animation with an integrated in-editor skinning tool.
+* [Unity Anima2D](https://assetstore.unity.com/packages/2d/characters/anima2d-no-longer-supported-replaced-by-2d-animation-79840) - Advanced skeletal animation editor with support for both per-object and skinned mesh animation with an integrated in-editor skinning tool.
 * [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
 
 ## AI
@@ -55,13 +54,13 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Augmented & Virtual Reality
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples.
 * [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
-* [SteamVR Unity Toolkit](https://www.assetstore.unity3d.com/en/#!/content/64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
+* [SteamVR Unity Toolkit](https://assetstore.unity.com/packages/tools/integration/vrtk-virtual-reality-toolkit-vr-toolkit-64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
 * [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 
 ## Camera
 
-* [UFPS (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2943) - Provides camera, controllers, and other effects for use in FPS games.
+* [UFPS (Paid)](https://assetstore.unity.com/packages/templates/systems/ufps-ultimate-fps-2943) - Provides camera, controllers, and other effects for use in FPS games.
 
 ## Character Controllers
 
@@ -84,42 +83,41 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [SabreCSG](http://sabrecsg.com/) - A set of [CSG](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity. 
 
 ## Monetization
-* [Unity Ads](https://www.assetstore.unity3d.com/en/#!/content/21027) - Unity Ads is a video ad network with quick and seamless integration using regular and opt-in ads.
+* [Unity Monetization](https://assetstore.unity.com/packages/add-ons/services/unity-monetization-66123) - Unity Ads is a video ad network with quick and seamless integration using regular and opt-in ads.
 
 ## Networking
 
-* [Nakama](https://www.assetstore.unity3d.com/en/#!/content/81338) - Build social and realtime games with an open-source [distributed server](https://github.com/heroiclabs/nakama).
-* [Photon Bolt (Paid)](https://www.assetstore.unity3d.com/en/#!/content/41330) - Build networked games without having to know the details of networking or write any complex networking code.
-* [Photon Unity Networking](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
+* [Nakama](https://assetstore.unity.com/packages/tools/network/nakama-81338) - Build social and realtime games with an open-source [distributed server](https://github.com/heroiclabs/nakama).
+* [Photon Bolt (Paid)](https://assetstore.unity.com/packages/tools/network/photon-bolt-free-127156) - Build networked games without having to know the details of networking or write any complex networking code.
+* [Photon Unity Networking](https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 
 ## Scripting
-* [Easy Save 2 (Paid)](https://www.assetstore.unity3d.com/en/#!/content/768) - A fast and simple way to save and load data on all major platforms supported by Unity.
-* [Mad Level Manager (Paid)](https://www.assetstore.unity3d.com/en/#!/content/10070) - Provides a level manager, level selector, and progress save/load tools to make it easy to transition between levels and make level selection screens.
-* [UniStorm (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2714) - A customizable dynamic day and night weather system that creates realistic storms and weather.
+* [Easy Save 2 (Paid)](https://assetstore.unity.com/packages/tools/input-management/easy-save-the-complete-save-load-asset-768) - A fast and simple way to save and load data on all major platforms supported by Unity.
+* [UniStorm (Paid)](https://assetstore.unity.com/packages/tools/particles-effects/unistorm-volumetric-clouds-sky-modular-weather-and-cloud-shadows-2714) - A customizable dynamic day and night weather system that creates realistic storms and weather.
 
 ## Services
-* [Unity Analytics](https://www.assetstore.unity3d.com/en/#!/content/28120) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
+* [Unity Analytics](https://docs.unity3d.com/Manual/UnityAnalyticsSetup.html) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
 
 ## Tweening
 
-* [DOTween](https://www.assetstore.unity3d.com/en/#!/content/27676) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). This is the follow-up to HOTween.
+* [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). This is the follow-up to HOTween.
 * [GoKit](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple.
-* [iTween](https://www.assetstore.unity3d.com/en/#!/content/84) - A simple, and easy to use animation system.
-* [LeanTween](https://www.assetstore.unity3d.com/en/#!/content/3595) - FOSS, and also the most lightweight tweening library for Unity. Allows you to tween any value you have access to via the .value() method.
+* [iTween](https://assetstore.unity.com/packages/tools/animation/itween-84) - A simple, and easy to use animation system.
+* [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) - FOSS, and also the most lightweight tweening library for Unity. Allows you to tween any value you have access to via the .value() method.
 
 ## UI
 
-* [NGUI (Paid)](https://www.assetstore.unity3d.com/en/#!/content/2413) - A powerful UI system and event notification framework.
-* [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/84126) - A alternative to render text in uGUI by using the distance field technique, which allows crisp fonts at any scale. This was recently purchased by Unity and will be integrated into the engine in the future.
+* [NGUI (Paid)](https://assetstore.unity.com/packages/tools/gui/ngui-next-gen-ui-2413) - A powerful UI system and event notification framework.
+* [TextMesh Pro](https://docs.unity3d.com/Packages/com.unity.textmeshpro@1.3/manual/index.html) - A alternative to render text in uGUI by using the distance field technique, which allows crisp fonts at any scale. This was recently purchased by Unity and will be integrated into the engine in the future.
 
 ## Utilities
 
 * [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
-* [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
 * [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
+* [Grouping Tool](https://assetstore.unity.com/packages/tools/utilities/grouping-tool-147552) - Easily group objects together
 * [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views.
-* [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
-* [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
+* [SnazzyGrid (Paid)](https://assetstore.unity.com/packages/tools/level-design/snazzygrid2-19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
+* [UniMerge (Paid)](https://assetstore.unity.com/packages/tools/version-control/unimerge-9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
 * [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
 * [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
 
@@ -129,7 +127,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Visual Scripting
 
-* [Playmaker (Paid)](https://www.assetstore.unity3d.com/en/#!/content/368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
+* [Playmaker (Paid)](https://assetstore.unity.com/packages/tools/visual-scripting/playmaker-368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
 
 # Projects
 
