@@ -120,6 +120,9 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [UniMerge (Paid)](https://assetstore.unity.com/packages/tools/version-control/unimerge-9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
 * [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
 * [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+* [UnityScreenShooter](https://github.com/Team-on/UnityScreenShooter) - Screenshot utility for Unity runtime & editor
+* [UnityBuildManager](https://github.com/Team-on/UnityBuildManager) - Utility for running builds sequence & pushing them to markets & keeping changelog
+* [CustomToolbar](https://github.com/smkplus/CustomToolbar) - Custom toolbar with ability do add new toolbars and reorganize it
 
 ## Video
 
@@ -134,6 +137,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Games
 
 * [Nodulus](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
+* [UnityGameTemplate](https://github.com/Team-on/UnityGameTemplate) - Template with all necessary stuff taken care, just create your games main features
 
 # Resources
 
