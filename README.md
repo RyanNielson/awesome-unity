@@ -104,6 +104,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [GoKit](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple.
 * [iTween](https://assetstore.unity.com/packages/tools/animation/itween-84) - A simple, and easy to use animation system.
 * [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) - FOSS, and also the most lightweight tweening library for Unity. Allows you to tween any value you have access to via the .value() method.
+* [Tweens](https://github.com/jeffreylanters/unity-tweens) - An open source, lightweight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms. 
 
 ## UI
 
