@@ -139,6 +139,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Books
 
+* [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition) - A book about creating 2D, 3D, and AR/VR games with the awesome Unity game platform.
+
 ## Tips and Tricks
 
 * [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
