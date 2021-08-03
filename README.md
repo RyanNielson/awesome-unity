@@ -137,6 +137,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 # Resources
 
+## Books
+
 ## Tips and Tricks
 
 * [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
