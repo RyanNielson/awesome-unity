@@ -161,6 +161,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
 
+## Books
+
+* [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition) - Create your first 2D, 3D, and AR/VR games with the awesome Unity game platform.
+
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
 
