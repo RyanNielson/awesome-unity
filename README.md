@@ -15,6 +15,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
   - [Augmented & Virtual Reality](#augmented--virtual-reality)
   - [Camera](#camera)
   - [Character Controllers](#character-controllers)
+  - [Editors](#editors)
   - [Frameworks](#frameworks)
   - [Input](#input)
   - [Modeling](#modeling)
@@ -65,6 +66,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Character Controllers
 
 * [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
+
+## Editors
+
+* [Runtime Node editor](https://github.com/cemuka/UnityRuntimeNodeEditor) - Unity runtime node editor using with Unity UI.
 
 ## Frameworks
 
