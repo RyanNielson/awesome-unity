@@ -69,6 +69,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Frameworks
 
 * [Fungus](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
+* [NFTPort Unity SDK (Free/Open-Source)](https://github.com/nftport/nftport-unity) - Full suite to integrate NFTs in Unity3D with cross-chain compatibility at ultra-fast speed. 🎲
 * [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 * [uFrame (Paid)](https://assetstore.unity.com/packages/tools/visual-scripting/uframe-game-framework-14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
 
