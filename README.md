@@ -128,6 +128,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Visual Scripting
 
 * [Playmaker (Paid)](https://assetstore.unity.com/packages/tools/visual-scripting/playmaker-368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
+*  [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802) - Bolt brings complete visual scripting to Unity, empowering artists, designers and programmers to create gameplay mechanics and interactive systems without writing a single line of code.
 
 # Projects
 
