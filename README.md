@@ -156,6 +156,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Ray Wenderlich's Tutorials](http://www.raywenderlich.com/category/unity) - Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
+* [Free Unity online courses](https://skillcombo.com/topic/unity/free/) - A curated list of free Unity courses.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
