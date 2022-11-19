@@ -97,6 +97,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Services
 * [Unity Analytics](https://docs.unity3d.com/Manual/UnityAnalyticsSetup.html) - Provides a dashboard with metrics to help track active players, sessions, retention, and revenue.
+* [Playerloop](https://github.com/playerloop/playerloop-unity) - The easiest way to start collecting bug reports from your players. It has a Unity SDK with prefabs and it allows you to attach savegame files.
 
 ## Tweening
 
