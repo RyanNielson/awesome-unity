@@ -36,7 +36,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## 2D
 
-* [2D Rope System (Paid)](https://assetstore.unity.com/packages/tools/sprite-management/2d-rope-system-17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
+* [2D Rope System (Paid) (Depricated)](https://assetstore.unity.com/packages/tools/sprite-management/2d-rope-system-17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
 * [Ferr2D Terrain Tool (Paid)](https://assetstore.unity.com/packages/tools/level-design/ferr2d-terrain-tool-11653) - Quickly create handcrafted 2D landscapes and levels.
 * [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 * [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
