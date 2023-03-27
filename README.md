@@ -12,6 +12,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 - [Awesome Unity](#awesome-unity)
   - [2D](#2d)
   - [AI](#ai)
+  - [Audio](#audio)
   - [Augmented & Virtual Reality](#augmented--virtual-reality)
   - [Camera](#camera)
   - [Character Controllers](#character-controllers)
@@ -57,6 +58,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [SteamVR Unity Toolkit](https://assetstore.unity.com/packages/tools/integration/vrtk-virtual-reality-toolkit-vr-toolkit-64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
 * [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
+
+## Audio
+
+* [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
 
 ## Camera
 
