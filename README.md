@@ -113,6 +113,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Utilities
 
 * [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
+* [Gamium](https://github.com/dogu-team/gamium) - Game test automation library, scripting the behavior of game users.
 * [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
 * [Grouping Tool](https://assetstore.unity.com/packages/tools/utilities/grouping-tool-147552) - Easily group objects together
 * [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views.
