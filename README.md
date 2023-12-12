@@ -65,6 +65,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Character Controllers
 
 * [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
+* [Ultimate 2D Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller) - A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc.
 
 ## Frameworks
 
