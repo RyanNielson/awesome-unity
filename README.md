@@ -53,6 +53,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Augmented & Virtual Reality
 * [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples.
+* [Banuba Face AR SDK](https://github.com/Banuba/quickstart-unity) - Augmented Reality SDK with skin smoothing, virtual makeup, background removal, [3D masks](https://www.banuba.com/facear-sdk/face-filters), and much more.
 * [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
 * [SteamVR Unity Toolkit](https://assetstore.unity.com/packages/tools/integration/vrtk-virtual-reality-toolkit-vr-toolkit-64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
 * [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
