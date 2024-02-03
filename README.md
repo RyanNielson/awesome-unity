@@ -20,6 +20,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
   - [Modeling](#modeling)
   - [Monetization](#monetization)
   - [Networking](#networking)
+  - [Project Management](#project-management)
   - [Scripting](#scripting)
   - [Services](#services)
   - [Tweening](#tweening)
@@ -90,6 +91,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Nakama](https://assetstore.unity.com/packages/tools/network/nakama-81338) - Build social and realtime games with an open-source [distributed server](https://github.com/heroiclabs/nakama).
 * [Photon Bolt (Paid)](https://assetstore.unity.com/packages/tools/network/photon-bolt-free-127156) - Build networked games without having to know the details of networking or write any complex networking code.
 * [Photon Unity Networking](https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
+
+## Project Management
+
+* [unity-desktop-lite](https://github.com/gblikas/unity-desktop-lite) - Unity on web, via Github Codespaces - use unity via noVNC and make changes, or just quickly check prefab, scene and asset changes.
 
 ## Scripting
 * [Easy Save 2 (Paid)](https://assetstore.unity.com/packages/tools/input-management/easy-save-the-complete-save-load-asset-768) - A fast and simple way to save and load data on all major platforms supported by Unity.
