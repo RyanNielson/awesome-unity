@@ -109,6 +109,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [NGUI (Paid)](https://assetstore.unity.com/packages/tools/gui/ngui-next-gen-ui-2413) - A powerful UI system and event notification framework.
 * [TextMesh Pro](https://docs.unity3d.com/Packages/com.unity.textmeshpro@1.3/manual/index.html) - A alternative to render text in uGUI by using the distance field technique, which allows crisp fonts at any scale. This was recently purchased by Unity and will be integrated into the engine in the future.
+* [Rewired.UI.Hotkeys](https://github.com/am1goo/Rewired.UI.Hotkeys) - a plugin for Guavaman's Rewired Unity Asset that provides an easy-to-use API for showing controller hotkeys to the player at runtime based on their bindings and input method.
 
 ## Utilities
 
