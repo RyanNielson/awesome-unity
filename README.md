@@ -71,7 +71,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Fungus](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 * [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 * [uFrame (Paid)](https://assetstore.unity.com/packages/tools/visual-scripting/uframe-game-framework-14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
-* [UniState](https://github.com/bazyleu/UniState) - UniState is a code architecture framework for Unity, designed around State pattern. Offers high performance and excellent scalability, ideal for complex Unity projects.
+* [UniState](https://github.com/bazyleu/UniState) - UniState is a modern, high-performance, scalable state machine package for Unity.
 
 ## Input
 
