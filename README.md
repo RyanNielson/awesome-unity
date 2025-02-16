@@ -139,6 +139,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 # Resources
 
+## Books
+
+* [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition) - A book about creating 2D, 3D, and AR/VR games with the awesome Unity game platform.
+
 ## Tips and Tricks
 
 * [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
@@ -158,6 +162,11 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [Ray Wenderlich's Tutorials](http://www.raywenderlich.com/category/unity) - Beginner and mid-level tutorials focused on learning Unity features or creating small example games.
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) - Unity's official documentation on developing virtual reality applications.
+
+## Books
+
+* [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition) - Create your first 2D, 3D, and AR/VR games with the awesome Unity game platform.
+* [Game Programming Design Patterns: With examples in C# and Unity](https://www.manning.com/books/game-programming-design-patterns) - Learn 15 essential design patterns that will save you time and improve the quality of your games.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
